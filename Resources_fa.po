@@ -94,7 +94,7 @@ msgstr "طرح"
 
 #: Editor.java:602
 msgid "Verify / Compile"
-msgstr "بازبینی / کامپایل"
+msgstr "بررسی صحت / کامپایل"
 
 #: Editor.java:629
 msgid "Import Library..."
@@ -1456,7 +1456,7 @@ msgstr "سربرگ بعد"
 
 #: EditorToolbar.java:41 EditorToolbar.java:46
 msgid "Verify"
-msgstr "بازبینی"
+msgstr "بررسی صحت"
 
 #: EditorToolbar.java:41
 msgid "Open"
@@ -1684,7 +1684,7 @@ msgstr "بارگذاری"
 
 #: Preferences.java:392
 msgid "Verify code after upload"
-msgstr "کد صحت بعد از بارگذاری"
+msgstr "بررسی صحت کد بعد از بارگذاری"
 
 #: Preferences.java:401
 msgid "Use external editor"
